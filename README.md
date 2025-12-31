@@ -31,7 +31,6 @@ This repository serves as a personal archive for reports, industry visit reflect
 - **Cloud Computing:** Virtualization and modern data storage infrastructure.
 
 ---
----
 
 ## 💭 Reflection
 
