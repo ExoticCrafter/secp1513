@@ -31,3 +31,15 @@ This repository serves as a personal archive for reports, industry visit reflect
 - **Cloud Computing:** Virtualization and modern data storage infrastructure.
 
 ---
+---
+
+## 💭 Reflection
+
+### 💡 What I Gained
+This course offered a comprehensive view of the IT world, bridging the gap between raw hardware concepts and sophisticated **Information Systems**. Beyond the technical curriculum of **Cloud Computing** and **Network Communications**, I significantly improved my soft skills. The unique learning approach—involving **role-play acting**, dynamic **presentations**, and immersive **industry visits**—helped me understand how technology is applied in real-world business scenarios rather than just theoretical concepts.
+
+### 📈 Areas for Improvement
+While I enjoyed the dynamic nature of the class, I aim to further refine my **System Analysis & Design (SAD)** skills. Translating abstract requirements into technical specifications is a skill I want to master. Additionally, I plan to leverage the communication confidence gained from our acting sessions to become a more effective speaker in professional technical settings.
+
+### 📝 Final Thoughts
+**Technology & Information System (SECP1513)** was far from a typical lecture-based course. I am incredibly grateful to **Dr. Aryati binti Bakri** for her innovative teaching methods. Her decision to incorporate **acting** and **industry visits** made the learning process genuinely engaging. Furthermore, sharing her **vast industry experience** and motherly **advice** provided me with a clearer roadmap and motivation for my future career in Data Engineering.
