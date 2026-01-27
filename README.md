@@ -42,3 +42,5 @@ While I enjoyed the dynamic nature of the class, I aim to further refine my **Sy
 
 ### 📝 Final Thoughts
 **Technology & Information System (SECP1513)** was far from a typical lecture-based course. I am incredibly grateful to **Dr. Aryati binti Bakri** for her innovative teaching methods. Her decision to incorporate **acting** and **industry visits** made the learning process genuinely engaging. Furthermore, sharing her **vast industry experience** and motherly **advice** provided me with a clearer roadmap and motivation for my future career in Data Engineering.
+
+### [💡 Design Thinking Video](https://drive.google.com/drive/folders/1C5ZGtGp_phNOASKv_is6ifP2vMHVsOqJ?usp=drive_link)
